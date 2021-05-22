@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - Discord: Ĝĺîŧćĥ#4712
+- 📫 How to reach me - Discord: Zaprev™#4226
 
 <!---
 DaniDani2006/DaniDani2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
